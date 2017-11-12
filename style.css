@@ -1,0 +1,79 @@
+body
+{
+  background-color:#3e3e3e;
+  font-family: 'Playfair Display', serif;
+  font-size:30px;
+  color:#9e9e9e;
+  text-align:center;
+}
+
+#PaulWard
+{
+  padding-top:30px;
+}
+
+.majestic
+{
+  display:none;
+  position:absolute;
+  top:0px;
+  left:0px;
+}
+
+#player
+{
+  margin-top:-20px;
+}
+
+.wooooo
+{
+  width:600px;
+  font-family: 'Cutive Mono', monospace;
+  text-align:center;
+  background-color:transparent;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #4e4e4e;
+  color:#ffffff;
+}
+
+.wooooo:hover
+{
+  border-width: 2px;
+  border-style: solid;
+  border-color: #7e7e7e;
+}
+
+.wooooo:focus
+{
+  border-width: 2px;
+  border-style: solid;
+  border-color: #ffffff;
+}
+
+#buttonToWard
+{
+  margin-top:50px;
+  width:235px;
+  height:338px;
+  text-align:center;
+  background-image:url("pasward.png");
+  background-color:transparent;
+  border-width: 2px;
+  border-style: none;
+  border-color: #7e7e7e;
+}
+
+#buttonToWard:hover
+{
+  border-width: 2px;
+  border-style: solid;
+  border-color: #7e7e7e;
+}
+
+#buttonToWard:focus
+{
+  border-width: 2px;
+  border-style: solid;
+  border-color: #ffffff;
+}
